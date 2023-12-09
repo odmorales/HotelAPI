@@ -1,0 +1,17 @@
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\Hotal.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\Hotal.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\Hotal.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\Hotal.Infrastructure.AssemblyInfo.cs
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\Hotal.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\bin\Debug\net6.0\Hotal.Infrastructure.deps.json
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\bin\Debug\net6.0\Hotal.Infrastructure.dll
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\bin\Debug\net6.0\Hotal.Infrastructure.pdb
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\bin\Debug\net6.0\Hotel.Application.dll
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\bin\Debug\net6.0\Hotel.Domain.dll
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\bin\Debug\net6.0\Hotel.Application.pdb
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\bin\Debug\net6.0\Hotel.Domain.pdb
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\Hotal.Infrastructure.csproj.CopyComplete
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\Hotal.Infrastructure.dll
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\refint\Hotal.Infrastructure.dll
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\Hotal.Infrastructure.pdb
+C:\Users\odmorales\source\repos\Hotel\Hotal.Infrastructure\obj\Debug\net6.0\ref\Hotal.Infrastructure.dll
